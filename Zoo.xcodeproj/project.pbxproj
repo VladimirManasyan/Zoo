@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		80C254C0282D3A1B008C335F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C254BF282D3A1B008C335F /* SecondViewController.swift */; };
 		80E36117282AC3C5003C2CB6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80E36116282AC3C5003C2CB6 /* AppDelegate.swift */; };
 		80E36119282AC3C5003C2CB6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80E36118282AC3C5003C2CB6 /* SceneDelegate.swift */; };
 		80E3611B282AC3C5003C2CB6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80E3611A282AC3C5003C2CB6 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		80C254BF282D3A1B008C335F /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		80E36113282AC3C5003C2CB6 /* Zoo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Zoo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80E36116282AC3C5003C2CB6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		80E36118282AC3C5003C2CB6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				80E36116282AC3C5003C2CB6 /* AppDelegate.swift */,
 				80E36118282AC3C5003C2CB6 /* SceneDelegate.swift */,
 				80E3611A282AC3C5003C2CB6 /* ViewController.swift */,
+				80C254BF282D3A1B008C335F /* SecondViewController.swift */,
 				80E3611C282AC3C5003C2CB6 /* Main.storyboard */,
 				80E3611F282AC3C8003C2CB6 /* Assets.xcassets */,
 				80E36121282AC3C8003C2CB6 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				80C254C0282D3A1B008C335F /* SecondViewController.swift in Sources */,
 				80E3611B282AC3C5003C2CB6 /* ViewController.swift in Sources */,
 				80E36117282AC3C5003C2CB6 /* AppDelegate.swift in Sources */,
 				80E36119282AC3C5003C2CB6 /* SceneDelegate.swift in Sources */,
